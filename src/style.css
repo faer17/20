@@ -1,0 +1,54 @@
+body{
+    background-image: url(https://images4.alphacoders.com/209/thumb-1920-209498.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+
+}
+
+center{
+    border: 2px solid blue;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    border-radius: 30px;
+    box-sizing: border-box;
+    -webkit-backdrop-filter: blur(4px);
+    backdrop-filter: blur(4px);
+}
+
+h1{
+    color: #fff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(0, 128, 255);
+    border: 2px solid blue;
+    width: 200px;
+    height: 72px;
+    border-radius: 16px;
+    padding-top: 18px;
+    box-sizing: border-box;
+}
+
+.btnone{
+    color: #fff;
+    padding: 18px 55px;
+    background-color:green;
+    border: none;
+    margin-left: 5px;
+    font-size: 16px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 20px;
+}
+
+
+.btntwo{
+    color: #fff;
+    padding: 18px 55px;
+    background-color:red;
+    border: none;
+    margin-left: 5px;
+    font-size: 16px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 20px;
+}
+
